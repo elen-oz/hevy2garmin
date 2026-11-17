@@ -2,6 +2,7 @@
   <img src="src/hevy2garmin/static/favicon.svg" width="80" height="80" alt="hevy2garmin logo">
 </p>
 
+
 <h1 align="center">hevy2garmin</h1>
 
 <p align="center">
